@@ -1,4 +1,5 @@
-0.7.2+.autotools
+0.7.13+.autotools
 alsa-lib-dev
 doxygen
+file
 perl
